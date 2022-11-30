@@ -1,0 +1,19 @@
+{
+  "name": "is-str",
+  "version": "1.0.0",
+  "description": "Is it string or not?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtrfs/is-str.git"
+  },
+  "author": "jtrfs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtrfs/is-str/issues"
+  },
+  "homepage": "https://github.com/jtrfs/is-str#readme"
+}
